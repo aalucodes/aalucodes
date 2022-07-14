@@ -1,0 +1,5 @@
+- 👋 Hi, I’m someone  
+- 👀 I’m interested in something
+- 🌱 I’m currently learning a subject
+- 💞️ I’m looking to collaborate on nothing 
+- 📫 How to reach me : http://localhost
